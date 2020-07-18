@@ -1,7 +1,7 @@
 package com.factory.method;
 
-import org.Logger;
-import org.LoggerFactory;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 
 public class factory {
 
